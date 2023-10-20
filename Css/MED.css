@@ -48,7 +48,10 @@ p
 .ambulancia
 {
     margin-right: 1%;
+    position: relative;
+    float: left;
 }
+
 
 .telefono
 {
@@ -58,4 +61,10 @@ p
 .whats 
 {
     margin-right: 1%;
+}
+
+.contactos
+{
+    position: relative;
+    float: right;
 }
