@@ -1,0 +1,61 @@
+a {
+    text-decoration-line: none;
+    color: rgb(80, 79, 79);
+    margin-left: 80px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+a:hover{
+    text-decoration-line: underline;
+}
+input{
+    height: 35px;
+    width: 500px;
+    margin-left: 10%;
+    
+}
+p
+{
+    text-decoration-line: none;
+    color: rgb(58, 137, 227);
+    margin-left: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.logo
+{
+    margin-left: 15%;
+    position: relative;
+    float: left;
+
+
+}
+
+.buscador
+{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    color: #726D6D;
+    padding: 14px;
+    height: 45px;
+}
+
+.ambulancia
+{
+    margin-right: 1%;
+}
+
+.telefono
+{
+    margin-right: 1%;
+}
+
+.whats 
+{
+    margin-right: 1%;
+}
