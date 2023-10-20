@@ -1,2 +1,2 @@
 # Meditek
- Projecte M12
+ Projecte Inicial M12.
