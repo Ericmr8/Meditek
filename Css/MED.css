@@ -81,6 +81,8 @@ input{
     color: #726D6D;
     padding: 14px;
     height: 45px;
+    float: right;
+    margin-right: 13cm;
 }
 
 .ambulancia
@@ -105,3 +107,9 @@ input{
 {
     position: relative;
     float: right;
+}
+
+#meditek {
+    position: relative;
+    left: 10cm;
+}
