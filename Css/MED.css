@@ -1,3 +1,52 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 10px 20px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    width: 2cm; 
+    height: auto;
+    margin-right: 10px; 
+}
+
+.logo p {
+    margin: 0;
+}
+
+.contacto-info {
+    display: flex;
+    align-items: center;
+}
+
+.contacto-info img {
+    width: 20px; 
+    height: auto;
+    margin-right: 10px; 
+}
+
+.telf {
+    margin-right: 20px; 
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid #777; 
+}
 a {
     text-decoration-line: none;
     color: rgb(80, 79, 79);
@@ -11,24 +60,13 @@ input{
     height: 35px;
     width: 500px;
     margin-left: 10%;
-    
-}
-p
-{
-    text-decoration-line: none;
-    color: rgb(58, 137, 227);
-    margin-left: 80px;
-    font-family: 'Times New Roman', Times, serif;
-    
-}
 
+}
 .logo
 {
     margin-left: 15%;
     position: relative;
     float: left;
-
-
 }
 
 .buscador
@@ -67,4 +105,3 @@ p
 {
     position: relative;
     float: right;
-}

@@ -43,3 +43,51 @@ ul {
 label {
     color: #4C4C4C;
 }
+body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+
+            padding: 10px 20px;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+        }
+
+        .logo img {
+            width: 2cm; 
+            height: auto;
+            margin-right: 10px; 
+        }
+
+        .logo p {
+            margin: 0;
+        }
+
+        .contacto-info {
+            display: flex;
+            align-items: center;
+        }
+
+        .contacto-info img {
+            width: 20px; 
+            height: auto;
+            margin-right: 10px; 
+        }
+
+        .telf {
+            margin-right: 20px; 
+        }
+
+        hr {
+            border: 0;
+            border-top: 1px solid #777; 
+        }
