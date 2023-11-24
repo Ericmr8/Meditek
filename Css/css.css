@@ -44,18 +44,16 @@ label {
     color: #4C4C4C;
 }
 body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-
-        .header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-
-            padding: 10px 20px;
-        }
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+ }
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
 
         .logo {
             display: flex;
