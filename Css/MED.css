@@ -114,12 +114,11 @@ input{
 
 #meditek {
     position: relative;
-    left: 350px;
+    left: 10em;
 }
 #Carrito {
     width: 50px;
     height: auto;
-    padding: 10px;
     float: inline-end;
 }
 #Carrito {
@@ -127,4 +126,18 @@ input{
 }
 #hrenlaces {
     margin-top: 10px;
+}
+#search_query_top {
+    height: 3rem ; 
+    width: 40rem;
+    border-radius: 3rem;
+    border: 0px;
+    flex: row;
+    align-items: center;
+    align-content: center;
+    vertical-align: middle;
+}
+
+.enlaces {
+    flex-direction: row;
 }
